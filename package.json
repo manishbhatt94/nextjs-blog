@@ -9,6 +9,7 @@
     "lint:fix": "eslint --fix . --ext js,jsx"
   },
   "dependencies": {
+    "date-fns": "^4.1.0",
     "gray-matter": "^4.0.3",
     "next": "latest",
     "react": "latest",
